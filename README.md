@@ -1,4 +1,4 @@
-# 🧠 Codificando ideias, debugando limites
+# 🧠 Codificando ideias, decodificando limites.
 
 > *“Sempre em aprendizado. Todo erro é uma chance de evoluir.”*
 
