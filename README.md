@@ -15,6 +15,7 @@ Atualmente focado em aprender **JavaScript** e **lógica de programação**, est
 - 📚 Gosto de criar, errar, corrigir e crescer como dev  
 - 🚀 Meu objetivo é atuar com projetos reais e evoluir constantemente  
 - 📫 Contato: **[joao111.nett@gmail.com]**  
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -25,5 +26,9 @@ Atualmente focado em aprender **JavaScript** e **lógica de programação**, est
 
 ---
 
+> **“Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.”**  
+> — João 3:16
+
+---
 
 📌 Perfil mantido com dedicação por **João Neto**
