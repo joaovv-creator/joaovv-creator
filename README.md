@@ -1,4 +1,4 @@
-# 🧠 Codificando ideias, descodificando limites.
+# 🧠 Codificando ideias, decodificando limites.
 
 > *“Sempre em aprendizado. Todo erro é uma chance de evoluir.”*
 
@@ -27,8 +27,6 @@ Atualmente focado em aprender **JavaScript** e **lógica de programação**, est
 ---
 
 ## 🖼️ Goku como programador
-
-![Goku como programador, digitando linhas de código em um computador futurista com energia saiyajin ao redor, estilo anime, fundo de laboratório tecnológico](https://via.placeholder.com/600x400.png?text=Goku+como+programador)
 
 ---
 
