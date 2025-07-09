@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou o João Victor 👋
 
-<!--
-**joaovv-creator/joaovv-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação apaixonado por tecnologia e programação  
+🌱 Atualmente aprendendo JavaScript, HTML, CSS e lógica de programação  
+📚 Sempre buscando melhorar minhas habilidades em desenvolvimento web  
+🚀 Meus objetivos incluem trabalhar com projetos reais e evoluir como dev  
+📫 Contato: [seu-email@email.com] | [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+
+---
+
+🧠 “Sempre em aprendizado. Todo erro é uma chance de evoluir.”  
