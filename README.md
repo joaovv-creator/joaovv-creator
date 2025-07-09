@@ -14,8 +14,7 @@ Atualmente focado em aprender **JavaScript** e **lógica de programação**, est
 
 - 📚 Gosto de criar, errar, corrigir e crescer como dev  
 - 🚀 Meu objetivo é atuar com projetos reais e evoluir constantemente  
-- 📫 Contato: **[seu-email@email.com]** | [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-
+- 📫 Contato: **[joao111.nett@gmail.com]**  
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -26,8 +25,5 @@ Atualmente focado em aprender **JavaScript** e **lógica de programação**, est
 
 ---
 
-## 🖼️ Goku como programador
-
----
 
 📌 Perfil mantido com dedicação por **João Neto**
