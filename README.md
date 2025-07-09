@@ -4,7 +4,7 @@
 🌱 Atualmente aprendendo JavaScript e lógica de programação  
 📚 Sempre buscando melhorar minhas habilidades em desenvolvimento web  
 🚀 Meus objetivos incluem trabalhar com projetos reais e evoluir como dev  
-📫 Contato: [seu-email@email.com] | [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+📫 Contato: [joao111.nett@gmail.com] | [snvjoao]
 
 ## 🚀 Tecnologias e Ferramentas:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
