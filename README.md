@@ -17,4 +17,3 @@
 ---
 
 🧠 “Sempre em aprendizado. Todo erro é uma chance de evoluir.”
-
