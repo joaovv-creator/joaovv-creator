@@ -13,7 +13,7 @@
 - 🌱 Estudando **JavaScript** e **lógica de programação** diariamente  
 - 📚 Buscando aprimorar minhas habilidades em desenvolvimento web  
 - 🚀 Meu objetivo? Criar, aprender, errar, corrigir e evoluir como dev  
-- 📫 Contato: **[joao111.nett@gmail.com]** 
+- 📫 Contato: **[joao111.nett@gmail.com]** | [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 
 ---
 
@@ -24,3 +24,4 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
 
 --
+
