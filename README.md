@@ -2,8 +2,8 @@
 
 > *“Sempre em aprendizado. Todo erro é uma chance de evoluir.”*
 
-🎯 Transformando lógica em soluções e bugs em aprendizado.  
-💡 Explorando o universo da programação com curiosidade e determinação.
+🎯 "Melhor ter e não precisar do que precisar e não ter"
+💡 Explorador da programação
 
 ---
 
