@@ -29,3 +29,4 @@ Atualmente focado em aprender **JavaScript** e **lógica de programação**, est
 ---
 
 📌 Perfil mantido com dedicação por **João Neto**
+# ![snake gif](https://github.com/joaovv-creator/joaovv-creator/blob/output/github-contribution-grid-snake.gif)
