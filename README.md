@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou o João, um desenvolvedor em formação movido pela paixão por tecnologia.  
+Sou o João, um desenvolvedor em formação movido pela paixão por aprendizado.  
 Atualmente focado em aprender **JavaScript** e **lógica de programação**, estou sempre buscando aprimorar minhas habilidades em desenvolvimento web.
 
 - 📚 Gosto de criar, errar, corrigir e crescer como dev  
