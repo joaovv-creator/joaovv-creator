@@ -2,9 +2,6 @@
 
 > *“Sempre em aprendizado. Todo erro é uma chance de evoluir.”*
 
-🎯 "Melhor ter e não precisar do que precisar e não ter"
-💡 Explorador da programação
-
 ---
 
 ## 👨‍💻 Sobre mim
